@@ -6,3 +6,4 @@ llama-index-llms-google-genai
 google-generativeai
 faiss-cpu
 PyMuPDF
+python-dotenv

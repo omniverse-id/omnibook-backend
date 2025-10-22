@@ -121,3 +121,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Ignores
+faiss_storage/
+uploads/
